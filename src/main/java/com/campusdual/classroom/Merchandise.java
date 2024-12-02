@@ -95,4 +95,7 @@ public abstract class Merchandise {
 	public void setQuantity(int quantity) {
 		this.quantity = quantity;
 	}
+
+	public void printSpecificData() {
+	}
 }
